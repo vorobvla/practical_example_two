@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Semestralka.iml" filepath="$PROJECT_DIR$/Semestralka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-rome-feed-reader-1.0.0-r3/android-rome-feed-reader-1.0.0-r3.iml" filepath="$PROJECT_DIR$/android-rome-feed-reader-1.0.0-r3/android-rome-feed-reader-1.0.0-r3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdom-1.1.1-android-fork/jdom-1.1.1-android-fork.iml" filepath="$PROJECT_DIR$/jdom-1.1.1-android-fork/jdom-1.1.1-android-fork.iml" />
+    </modules>
+  </component>
+</project>
+

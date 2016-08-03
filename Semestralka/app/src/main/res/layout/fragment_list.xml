@@ -1,0 +1,26 @@
+<!--Layout Infletter Implelentation
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="15dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/listOfArticles"
+        android:clickable="true">
+    </LinearLayout>
+
+</ScrollView>  -->
+
+    <!-- List view implementation -->
+
+<ListView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:id="@android:id/list"
+    android:stackFromBottom="false">;
+</ListView>

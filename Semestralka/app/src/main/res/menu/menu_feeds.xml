@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="cz.cvut.fit.vorobvla.semestralka.FeedsActivity">
+    <item android:id="@+id/add_feed" android:title="@string/addFeed"
+        android:icon="@drawable/ic_add"
+        android:orderInCategory="100" app:showAsAction="always" />
+    <!--<item android:id="@+id/remove_feed" android:title="@string/removeFeed"
+        android:icon="@drawable/ic_remove_feed"
+        android:orderInCategory="100" app:showAsAction="always" />-->
+</menu>

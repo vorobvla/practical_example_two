@@ -1,0 +1,17 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ListActivity">
+    <item android:id="@+id/configure_feeds" android:title="@string/configure_feeds"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/refresh_feeds" android:title="@string/refresh_feeds"
+        android:icon="@drawable/ic_refresh_feeds"
+        android:orderInCategory="100" app:showAsAction="always" />
+    <item android:id="@+id/purge" android:title="Purge Articles"
+        app:showAsAction="always" android:icon="@drawable/ic_remove_feed"/>
+    <item android:id="@+id/share_item"
+        android:title="Share"
+        android:icon="@drawable/ic_share"
+        android:orderInCategory="100" app:showAsAction="always" />
+</menu>

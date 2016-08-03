@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Feed Reader</string>
+    <string name="def_header">Default header</string>
+    <string name="def_text">Default text</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_details">Details</string>
+    <string name="details_posted_by">Posted by</string>
+    <string name="no_data">(no data)</string>
+    <string name="details_date_fmt">MMM d, yyyy</string>
+    <string name="details_share_with">Share with</string>
+    <string name="by">&#160;by&#160;</string>
+    <string name="configure_feeds">Configure Feeds</string>
+    <string name="refresh_feeds">Refresh Feeds</string>
+
+    <string name="addFeed">Add a new Feed</string>
+    <string name="removeFeed">Remove selected Feeds</string>
+    <string name="addFeedUrl">Insert URL of the feed</string>
+    <string name="addFeedFailureWithUrl">Could not add a feed</string>
+    <string name="refreshingFeeds">Refreshing feeds</string>
+
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="LIST_FRAG_TAG">lft</string>
+    <string name="DETAILS_FRAG_TAG">dft</string>
+
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_feeds">Configure Feeds</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

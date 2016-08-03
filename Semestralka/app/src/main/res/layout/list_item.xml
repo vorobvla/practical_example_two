@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/article_header"
+    android:orientation="vertical"
+    android:padding="3dp">
+
+    <TextView
+        style="@style/Title"
+        android:id="@+id/title"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:maxLines="2"
+        android:clickable="false"
+        />
+    <TextView
+        style="@style/Text"
+        android:id="@+id/text"
+        android:textSize="18sp"
+        android:maxLines="3"
+        android:clickable="false"
+        />
+</LinearLayout>

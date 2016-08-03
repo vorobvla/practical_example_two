@@ -1,0 +1,26 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/Title"
+            android:id="@+id/title" />
+        <TextView
+            style="@style/DateNauthor"
+            android:id="@+id/dateNauthor" />
+        <TextView
+            style="@style/PostedBy"
+            android:id="@+id/postedBy" />
+        <TextView
+            style="@style/Text"
+            android:id="@+id/text" />
+
+    </LinearLayout>
+</ScrollView>
