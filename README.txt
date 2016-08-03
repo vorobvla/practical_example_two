@@ -1,5 +1,5 @@
 ======================== README FOR FEED READER ==========================
-============== (task for Networking and Automatic Testing) ===============
+==================== (task for Android Developement) =====================
 ======================== by Vladimir Vorobyev ============================
 
 This  folder contains my solution of a task I have solved while studying in Czech Technological University in Prague (CTU).
